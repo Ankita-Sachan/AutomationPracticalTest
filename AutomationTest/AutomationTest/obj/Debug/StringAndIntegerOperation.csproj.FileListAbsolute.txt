@@ -1,0 +1,16 @@
+F:\Project\AutomationTest\AutomationTest\bin\Debug\AutomationTest.exe.config
+F:\Project\AutomationTest\AutomationTest\bin\Debug\AutomationTest.exe
+F:\Project\AutomationTest\AutomationTest\bin\Debug\AutomationTest.pdb
+F:\Project\AutomationTest\AutomationTest\obj\Debug\AutomationTest.exe
+F:\Project\AutomationTest\AutomationTest\obj\Debug\AutomationTest.pdb
+F:\Project\AutomationTest\AutomationTest\bin\Debug\UnitTest.dll
+F:\Project\AutomationTest\AutomationTest\bin\Debug\CollectionOperation.exe
+F:\Project\AutomationTest\AutomationTest\bin\Debug\FileOperation.exe
+F:\Project\AutomationTest\AutomationTest\bin\Debug\XmlFileOpeartion.exe
+F:\Project\AutomationTest\AutomationTest\bin\Debug\UnitTest.pdb
+F:\Project\AutomationTest\AutomationTest\bin\Debug\CollectionOperation.pdb
+F:\Project\AutomationTest\AutomationTest\bin\Debug\FileOperation.pdb
+F:\Project\AutomationTest\AutomationTest\bin\Debug\XmlFileOpeartion.pdb
+F:\Project\AutomationTest\AutomationTest\obj\Debug\StringAndIntegerOperation.csprojResolveAssemblyReference.cache
+F:\Project\AutomationTest\AutomationTest\bin\Debug\InterfaceDemo.exe
+F:\Project\AutomationTest\AutomationTest\bin\Debug\InterfaceDemo.pdb

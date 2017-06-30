@@ -1,0 +1,8 @@
+F:\Project\AutomationTest\AutomationTest\bin\Debug\AutomationTest.exe.config
+F:\Project\AutomationTest\AutomationTest\bin\Debug\AutomationTest.exe
+F:\Project\AutomationTest\AutomationTest\bin\Debug\AutomationTest.pdb
+F:\Project\AutomationTest\AutomationTest\obj\Debug\AutomationTest.exe
+F:\Project\AutomationTest\AutomationTest\obj\Debug\AutomationTest.pdb
+F:\Project\AutomationTest\AutomationTest\bin\Debug\UnitTest.dll
+F:\Project\AutomationTest\AutomationTest\bin\Debug\UnitTest.pdb
+F:\Project\AutomationTest\AutomationTest\obj\Debug\AutomationTest.csprojResolveAssemblyReference.cache

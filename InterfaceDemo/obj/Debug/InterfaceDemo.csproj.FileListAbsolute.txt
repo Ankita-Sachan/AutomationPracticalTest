@@ -1,0 +1,5 @@
+F:\Project\AutomationTest\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+F:\Project\AutomationTest\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+F:\Project\AutomationTest\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+F:\Project\AutomationTest\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+F:\Project\AutomationTest\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

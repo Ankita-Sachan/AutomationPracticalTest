@@ -1,0 +1,6 @@
+F:\Project\AutomationTest\FileOperation\bin\Debug\FileOperation.exe.config
+F:\Project\AutomationTest\FileOperation\bin\Debug\FileOperation.exe
+F:\Project\AutomationTest\FileOperation\bin\Debug\FileOperation.pdb
+F:\Project\AutomationTest\FileOperation\obj\Debug\FileOperation.exe
+F:\Project\AutomationTest\FileOperation\obj\Debug\FileOperation.pdb
+F:\Project\AutomationTest\FileOperation\obj\Debug\FileOperation.csprojResolveAssemblyReference.cache

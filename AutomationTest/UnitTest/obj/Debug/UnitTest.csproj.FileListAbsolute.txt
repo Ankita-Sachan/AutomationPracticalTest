@@ -1,0 +1,15 @@
+F:\Project\AutomationTest\UnitTest\bin\Debug\UnitTest.dll
+F:\Project\AutomationTest\UnitTest\bin\Debug\UnitTest.pdb
+F:\Project\AutomationTest\UnitTest\bin\Debug\AutomationTest.exe
+F:\Project\AutomationTest\UnitTest\bin\Debug\CollectionOperation.exe
+F:\Project\AutomationTest\UnitTest\bin\Debug\FileOperation.exe
+F:\Project\AutomationTest\UnitTest\bin\Debug\XmlFileOpeartion.exe
+F:\Project\AutomationTest\UnitTest\bin\Debug\AutomationTest.pdb
+F:\Project\AutomationTest\UnitTest\bin\Debug\CollectionOperation.pdb
+F:\Project\AutomationTest\UnitTest\bin\Debug\FileOperation.pdb
+F:\Project\AutomationTest\UnitTest\bin\Debug\XmlFileOpeartion.pdb
+F:\Project\AutomationTest\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+F:\Project\AutomationTest\UnitTest\obj\Debug\UnitTest.dll
+F:\Project\AutomationTest\UnitTest\obj\Debug\UnitTest.pdb
+F:\Project\AutomationTest\UnitTest\bin\Debug\InterfaceDemo.exe
+F:\Project\AutomationTest\UnitTest\bin\Debug\InterfaceDemo.pdb

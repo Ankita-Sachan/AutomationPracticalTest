@@ -1,0 +1,5 @@
+F:\Project\AutomationTest\XmlFileOpeartion\bin\Debug\XmlFileOpeartion.exe.config
+F:\Project\AutomationTest\XmlFileOpeartion\bin\Debug\XmlFileOpeartion.exe
+F:\Project\AutomationTest\XmlFileOpeartion\bin\Debug\XmlFileOpeartion.pdb
+F:\Project\AutomationTest\XmlFileOpeartion\obj\Debug\XmlFileOpeartion.exe
+F:\Project\AutomationTest\XmlFileOpeartion\obj\Debug\XmlFileOpeartion.pdb
