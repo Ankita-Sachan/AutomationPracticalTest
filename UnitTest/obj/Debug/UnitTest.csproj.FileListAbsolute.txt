@@ -13,3 +13,18 @@ F:\Project\AutomationTest\UnitTest\obj\Debug\UnitTest.dll
 F:\Project\AutomationTest\UnitTest\obj\Debug\UnitTest.pdb
 F:\Project\AutomationTest\UnitTest\bin\Debug\InterfaceDemo.exe
 F:\Project\AutomationTest\UnitTest\bin\Debug\InterfaceDemo.pdb
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\UnitTest.dll
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\UnitTest.pdb
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\AutomationTest.exe
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\CollectionOperation.exe
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\FileOperation.exe
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\InterfaceDemo.exe
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\XmlFileOpeartion.exe
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\AutomationTest.pdb
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\CollectionOperation.pdb
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\FileOperation.pdb
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\InterfaceDemo.pdb
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\bin\Debug\XmlFileOpeartion.pdb
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\obj\Debug\UnitTest.dll
+F:\Git hub repositiory\AutomationPracticalTest\UnitTest\obj\Debug\UnitTest.pdb

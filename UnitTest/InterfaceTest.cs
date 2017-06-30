@@ -5,7 +5,7 @@ using InterfaceDemo;
 namespace UnitTest
 {
     [TestClass]
-    public class UnitTest1
+    public class InterfaceTest
     {
         [TestMethod]
         public void TestMethod1()
