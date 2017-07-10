@@ -92,9 +92,10 @@ namespace CollectionCategory
             lst.ForEach(x => Console.Write(x+" " ));
             Console.WriteLine("\n");
         }
-        public void Insert(List<int> lst, int x, int pos)
+        public List<int> Insert(List<int> lst, int x, int pos)
         {
             lst.Insert(pos, x);
+            return lst;
         }
 
         public int Find(ref List<int> lst, int x)
@@ -102,9 +103,10 @@ namespace CollectionCategory
             int pos = lst.IndexOf(x);
             return pos;
         }
-        public void Remove(ref List<int> lst, int x)
+        public List<int> Remove(ref List<int> lst, int x)
         {
             lst.RemoveAll(a => a == x);
+            return lst;
         }
     }
 }

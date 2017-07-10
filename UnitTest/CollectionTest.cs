@@ -14,18 +14,20 @@ namespace UnitTest
         [TestMethod]
         public void TestMethod1()
         {
-            operations.Remove(ref lst, 2);
+            CollectionAssert.AreEqual(new List<int>() { 1, 3, 4, 5 }, operations.Remove(ref lst, 2));
         }
 
         [TestMethod]
         public void TestMethod2()
         {
            int pos = operations.Find(ref lst, 3);
+           Assert.AreEqual(2,pos);
         }
         [TestMethod]
         public void TestMethod3()
         {
-            operations.Insert(lst, 2, 10);
+            CollectionAssert.AreEqual(new List<int>() { 1, 2,2, 3, 4, 5, 2 }, operations.Insert(lst, 2, 2));
+           
          }
 
     }
