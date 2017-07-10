@@ -23,10 +23,8 @@ F:\Git hub repositiory\AutomationPracticalTest\AutomationTest\bin\Debug\UnitTest
 F:\Git hub repositiory\AutomationPracticalTest\AutomationTest\bin\Debug\CollectionOperation.exe
 F:\Git hub repositiory\AutomationPracticalTest\AutomationTest\bin\Debug\FileOperation.exe
 F:\Git hub repositiory\AutomationPracticalTest\AutomationTest\bin\Debug\InterfaceDemo.exe
-F:\Git hub repositiory\AutomationPracticalTest\AutomationTest\bin\Debug\XmlFileOpeartion.exe
 F:\Git hub repositiory\AutomationPracticalTest\AutomationTest\bin\Debug\UnitTest.pdb
 F:\Git hub repositiory\AutomationPracticalTest\AutomationTest\bin\Debug\CollectionOperation.pdb
 F:\Git hub repositiory\AutomationPracticalTest\AutomationTest\bin\Debug\FileOperation.pdb
 F:\Git hub repositiory\AutomationPracticalTest\AutomationTest\bin\Debug\InterfaceDemo.pdb
-F:\Git hub repositiory\AutomationPracticalTest\AutomationTest\bin\Debug\XmlFileOpeartion.pdb
 F:\Git hub repositiory\AutomationPracticalTest\AutomationTest\obj\Debug\StringAndIntegerOperation.csprojResolveAssemblyReference.cache

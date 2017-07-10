@@ -4,3 +4,9 @@ F:\Project\AutomationTest\CollectionOperation\bin\Debug\CollectionOperation.pdb
 F:\Project\AutomationTest\CollectionOperation\obj\Debug\CollectionOperation.exe
 F:\Project\AutomationTest\CollectionOperation\obj\Debug\CollectionOperation.pdb
 F:\Project\AutomationTest\CollectionOperation\obj\Debug\CollectionOperation.csprojResolveAssemblyReference.cache
+F:\Git hub repositiory\AutomationPracticalTest\CollectionOperation\bin\Debug\CollectionOperation.exe.config
+F:\Git hub repositiory\AutomationPracticalTest\CollectionOperation\bin\Debug\CollectionOperation.exe
+F:\Git hub repositiory\AutomationPracticalTest\CollectionOperation\bin\Debug\CollectionOperation.pdb
+F:\Git hub repositiory\AutomationPracticalTest\CollectionOperation\obj\Debug\CollectionOperation.csprojResolveAssemblyReference.cache
+F:\Git hub repositiory\AutomationPracticalTest\CollectionOperation\obj\Debug\CollectionOperation.exe
+F:\Git hub repositiory\AutomationPracticalTest\CollectionOperation\obj\Debug\CollectionOperation.pdb

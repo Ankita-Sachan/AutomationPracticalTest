@@ -8,7 +8,6 @@ namespace UnitTest
     [TestClass]
     public class CollectionTest
     {
-
         List<int> lst = new List<int>() { 1,2,3,4,5,2};
         Operations operations = new Operations();
 

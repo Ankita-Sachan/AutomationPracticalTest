@@ -15,7 +15,7 @@ namespace TextFileOperation
             bool correct = true;
             int option;
             while (correct)
-            {
+            {                
                 Console.WriteLine("\n/*****Select Following Option/s\n");
                 Console.WriteLine("1 - Create file.");
                 Console.WriteLine("2 - Search file");

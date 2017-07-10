@@ -4,3 +4,9 @@ F:\Project\AutomationTest\FileOperation\bin\Debug\FileOperation.pdb
 F:\Project\AutomationTest\FileOperation\obj\Debug\FileOperation.exe
 F:\Project\AutomationTest\FileOperation\obj\Debug\FileOperation.pdb
 F:\Project\AutomationTest\FileOperation\obj\Debug\FileOperation.csprojResolveAssemblyReference.cache
+F:\Git hub repositiory\AutomationPracticalTest\FileOperation\bin\Debug\FileOperation.exe.config
+F:\Git hub repositiory\AutomationPracticalTest\FileOperation\bin\Debug\FileOperation.exe
+F:\Git hub repositiory\AutomationPracticalTest\FileOperation\bin\Debug\FileOperation.pdb
+F:\Git hub repositiory\AutomationPracticalTest\FileOperation\obj\Debug\FileOperation.csprojResolveAssemblyReference.cache
+F:\Git hub repositiory\AutomationPracticalTest\FileOperation\obj\Debug\FileOperation.exe
+F:\Git hub repositiory\AutomationPracticalTest\FileOperation\obj\Debug\FileOperation.pdb

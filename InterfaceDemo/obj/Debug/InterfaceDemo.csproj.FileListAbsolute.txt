@@ -3,3 +3,9 @@ F:\Project\AutomationTest\InterfaceDemo\bin\Debug\InterfaceDemo.exe
 F:\Project\AutomationTest\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
 F:\Project\AutomationTest\InterfaceDemo\obj\Debug\InterfaceDemo.exe
 F:\Project\AutomationTest\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
+F:\Git hub repositiory\AutomationPracticalTest\InterfaceDemo\obj\Debug\InterfaceDemo.csprojResolveAssemblyReference.cache
+F:\Git hub repositiory\AutomationPracticalTest\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+F:\Git hub repositiory\AutomationPracticalTest\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
+F:\Git hub repositiory\AutomationPracticalTest\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+F:\Git hub repositiory\AutomationPracticalTest\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+F:\Git hub repositiory\AutomationPracticalTest\InterfaceDemo\bin\Debug\InterfaceDemo.pdb

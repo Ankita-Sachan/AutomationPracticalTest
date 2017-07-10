@@ -82,7 +82,7 @@ namespace StringAndIntergerOperation
                 }
 
             }
-            return new string(strArray);
+            return new string(strArray).Replace("\0", "");
         }
 
         public static int CountNumberOfWords(ref string str)
@@ -117,6 +117,7 @@ namespace StringAndIntergerOperation
 
         public static void SortArrayInAschendindOrder(ref int[] arr)
         {
+            
             for (int pass = 1; pass < arr.Length - 1; pass++)
             {
                 // Count how many times this next loop
@@ -132,6 +133,7 @@ namespace StringAndIntergerOperation
                     }
                 }
             }
+            
         }
     }
 }

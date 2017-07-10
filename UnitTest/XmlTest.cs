@@ -10,7 +10,7 @@ namespace UnitTest
     public class XmlTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void DeleteNode()
         {
             string fileName = Path.Combine(System.IO.Directory.GetCurrentDirectory(), "Persons.xml");
             XmlOperations.CreateXmlFile(fileName);
@@ -19,7 +19,7 @@ namespace UnitTest
         }
 
         [TestMethod]
-        public void TestMethod2()
+        public void GetNode()
         {
             string fileName = Path.Combine(System.IO.Directory.GetCurrentDirectory(), "Persons.xml");
             XmlOperations.CreateXmlFile(fileName);
@@ -27,7 +27,7 @@ namespace UnitTest
         }
 
         [TestMethod]
-        public void TestMethod3()
+        public void InsertNode()
         {
             string fileName = Path.Combine(System.IO.Directory.GetCurrentDirectory(), "Persons.xml");
             XmlOperations.CreateXmlFile(fileName);
