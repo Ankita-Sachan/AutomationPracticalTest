@@ -161,7 +161,7 @@ namespace TextFileOperation
     }
     public class Operations
     {
-        public void CreateFile(string fullPath, string data)
+        public bool CreateFile(string fullPath, string data)
         {
 
             if (!Directory.Exists(Path.GetDirectoryName(fullPath)))
@@ -174,7 +174,7 @@ namespace TextFileOperation
                 if (string.IsNullOrEmpty(Path.GetFileName(fullPath)))
                 {
                     Console.WriteLine("Please write file name with directory name.");
-                    return;
+                    return false;
                 }
                 if (File.Exists(fullPath))
                 {
@@ -201,47 +201,57 @@ namespace TextFileOperation
                         Console.WriteLine(s);
                     }
                 }
+                return true;
             }
             catch (Exception Ex)
             {
                 Console.WriteLine(Ex.ToString());
+                return false;
             }
         }
-        public void DeleteFile(string directory, string fileName)
+        public bool DeleteFile(string directory, string fileName)
         {
             string fullFilePath = Path.Combine(directory, fileName);
             if (File.Exists(fullFilePath))
             {
                 File.Delete(fullFilePath);
                 Console.WriteLine("File deleted successfully");
+                return true;
             }
             else
             {
                 Console.WriteLine("File doesn't exist in selected directory");
+                return false;
             }
         }
-        public void RenameFile(string fullPath, string newFilePath)
+        public bool RenameFile(string fullPath, string newFilePath)
         {
             if (File.Exists(fullPath))
             {
                 File.Move(fullPath, newFilePath);
                 Console.WriteLine("File renamed successfully");
+                return true;
             }
-            else
+            else {
                 Console.WriteLine("File doesn't exist");
+                return false;
+            }
+                
         }
 
-        public void CopyFile(string sourceFilePath, string destinationFilePath)
+        public bool CopyFile(string sourceFilePath, string destinationFilePath)
         {
             if (!File.Exists(destinationFilePath))
             {
 
                 File.Copy(sourceFilePath, destinationFilePath, true);
                 Console.WriteLine("Copied Successfully");
+                return true;
             }
             else
             {
                 Console.WriteLine("New file name already exist in a directory.");
+                return false;
             }
         }
         public List<String> SearchFileInDirectory(string rootDir, string fileName)
